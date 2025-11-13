@@ -1,0 +1,130 @@
+{
+  "diseases_detected": [
+    "diabetes",
+    "heart_disease",
+    "liver_disease",
+    "kidney_disease"
+  ],
+  "all_findings": {
+    "cancer": {
+      "detected": false,
+      "confidence": "medium",
+      "keywords_found": [
+        "tumor"
+      ],
+      "markers_found": [],
+      "findings_found": [
+        "mass"
+      ],
+      "threshold_violations": []
+    },
+    "diabetes": {
+      "detected": true,
+      "confidence": "high",
+      "keywords_found": [
+        "diabetes",
+        "diabetic",
+        "prediabetes"
+      ],
+      "markers_found": [
+        "glucose",
+        "HbA1c",
+        "fasting blood sugar"
+      ],
+      "findings_found": [],
+      "threshold_violations": []
+    },
+    "heart_disease": {
+      "detected": true,
+      "confidence": "high",
+      "keywords_found": [],
+      "markers_found": [
+        "cholesterol",
+        "LDL",
+        "HDL",
+        "triglycerides"
+      ],
+      "findings_found": [],
+      "threshold_violations": []
+    },
+    "liver_disease": {
+      "detected": true,
+      "confidence": "high",
+      "keywords_found": [],
+      "markers_found": [
+        "ALT",
+        "AST",
+        "bilirubin",
+        "albumin",
+        "PT",
+        "SGOT",
+        "SGPT",
+        "direct bilirubin",
+        "indirect bilirubin"
+      ],
+      "findings_found": [],
+      "threshold_violations": []
+    },
+    "kidney_disease": {
+      "detected": true,
+      "confidence": "high",
+      "keywords_found": [],
+      "markers_found": [
+        "creatinine",
+        "BUN",
+        "eGFR",
+        "urea",
+        "albumin",
+        "protein",
+        "uric acid",
+        "calcium"
+      ],
+      "findings_found": [],
+      "threshold_violations": []
+    },
+    "breast_cancer": {
+      "detected": false,
+      "confidence": "medium",
+      "keywords_found": [],
+      "markers_found": [
+        "ER",
+        "PR"
+      ],
+      "findings_found": [],
+      "threshold_violations": []
+    },
+    "hepatitis": {
+      "detected": false,
+      "confidence": "low",
+      "keywords_found": [],
+      "markers_found": [],
+      "findings_found": [],
+      "threshold_violations": []
+    }
+  },
+  "clinical_values": {},
+  "threshold_violations": {},
+  "overall_status": "positive",
+  "confidence": "high",
+  "recommendations": [
+    "Bring original report and all previous medical records",
+    "Consider ECG and echocardiogram if not done",
+    "Maintain healthy diet and exercise routine",
+    "Control blood pressure and blood sugar",
+    "Monitor blood pressure regularly",
+    "Avoid alcohol and hepatotoxic medications",
+    "Consult nephrologist immediately",
+    "Consider liver function test monitoring",
+    "Consult hepatologist or gastroenterologist",
+    "Ultrasound or fibroscan may be needed",
+    "Monitor kidney function regularly (eGFR, creatinine)",
+    "Immediate cardiology consultation recommended",
+    "Consider HbA1c test every 3 months",
+    "Do not delay medical consultation",
+    "Adjust medications for kidney function",
+    "Monitor blood glucose levels regularly",
+    "\u26a0\ufe0f URGENT: Consult with healthcare professional immediately",
+    "Discuss lipid management with physician",
+    "Consult endocrinologist for diabetes management"
+  ]
+}

@@ -1,0 +1,121 @@
+======================================================================
+COMPREHENSIVE MEDICAL REPORT ANALYSIS
+======================================================================
+
+Overall Status: ⚠️ WARNING
+Confidence Level: HIGH
+
+======================================================================
+DISEASES/CONDITIONS DETECTED:
+======================================================================
+
+⚠️ Diabetes (Confidence: HIGH)
+----------------------------------------------------------------------
+  Keywords Found:
+    • diabetes
+    • diabetic
+    • prediabetes
+  Biomarkers Mentioned:
+    • glucose
+    • HbA1c
+    • fasting blood sugar
+
+
+⚠️ Heart Disease (Confidence: HIGH)
+----------------------------------------------------------------------
+  Biomarkers Mentioned:
+    • cholesterol
+    • LDL
+    • HDL
+    • triglycerides
+
+
+⚠️ Liver Disease (Confidence: HIGH)
+----------------------------------------------------------------------
+  Biomarkers Mentioned:
+    • ALT
+    • AST
+    • bilirubin
+    • albumin
+    • PT
+    • SGOT
+    • SGPT
+    • direct bilirubin
+    • indirect bilirubin
+
+
+⚠️ Kidney Disease (Confidence: HIGH)
+----------------------------------------------------------------------
+  Biomarkers Mentioned:
+    • creatinine
+    • BUN
+    • eGFR
+    • urea
+    • albumin
+    • protein
+    • uric acid
+    • calcium
+
+======================================================================
+RECOMMENDATIONS:
+======================================================================
+1. Bring original report and all previous medical records
+2. Consider ECG and echocardiogram if not done
+3. Maintain healthy diet and exercise routine
+4. Control blood pressure and blood sugar
+5. Monitor blood pressure regularly
+6. Avoid alcohol and hepatotoxic medications
+7. Consult nephrologist immediately
+8. Consider liver function test monitoring
+9. Consult hepatologist or gastroenterologist
+10. Ultrasound or fibroscan may be needed
+11. Monitor kidney function regularly (eGFR, creatinine)
+12. Immediate cardiology consultation recommended
+13. Consider HbA1c test every 3 months
+14. Do not delay medical consultation
+15. Adjust medications for kidney function
+16. Monitor blood glucose levels regularly
+17. ⚠️ URGENT: Consult with healthcare professional immediately
+18. Discuss lipid management with physician
+19. Consult endocrinologist for diabetes management
+
+======================================================================
+DISCLAIMER:
+======================================================================
+This is an automated analysis tool and NOT a substitute for
+professional medical advice. Always consult qualified healthcare
+professionals for proper diagnosis and treatment.
+
+======================================================================
+EXTRACTED TEXT SAMPLE (First 500 characters):
+======================================================================
+
+--- Page 1 ---
+Deepti Bhatt(43Y/F)
+Name            :
+10 May 2025
+Date              :
+Executive Health Checkup - Above 40 Yrs Female With Utsh
+Test Asked   :
+Report Status:
+Complete Report
+
+--- Page 2 ---
+PROCESSED AT :
+Thyrocare,
+Plot No.428,Phase-IV,
+Udyog Vihar,
+Gurgaon,Haryana - 122 015
+NAME
+ 
+REF. BY
+TEST ASKED
+:
+:
+:
+EXECUTIVE HEALTH CHECKUP - ABOVE 40 YRS FEMALE 
+WITH UTSH
+HOME COLLECTION :
+186-B SHAKTI NAGAR NEAR GOMTI SCHOOL 
+LUCKNOW GHAZIPUR LUCKNOW LUCKNOW 
+UTTAR PRADESH INDIA 226016-2...

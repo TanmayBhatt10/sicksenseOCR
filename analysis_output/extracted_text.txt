@@ -1,0 +1,1309 @@
+
+--- Page 1 ---
+Deepti Bhatt(43Y/F)
+Name            :
+10 May 2025
+Date              :
+Executive Health Checkup - Above 40 Yrs Female With Utsh
+Test Asked   :
+Report Status:
+Complete Report
+
+--- Page 2 ---
+PROCESSED AT :
+Thyrocare,
+Plot No.428,Phase-IV,
+Udyog Vihar,
+Gurgaon,Haryana - 122 015
+NAME
+ 
+REF. BY
+TEST ASKED
+:
+:
+:
+EXECUTIVE HEALTH CHECKUP - ABOVE 40 YRS FEMALE 
+WITH UTSH
+HOME COLLECTION :
+186-B SHAKTI NAGAR NEAR GOMTI SCHOOL 
+LUCKNOW GHAZIPUR LUCKNOW LUCKNOW 
+UTTAR PRADESH INDIA 226016-226016
+DEEPTI BHATT(43Y/F)
+SELF
+Report Availability Summary
+Note: Please refer to the table below for status of your tests.
+12 Ready
+0 Ready with Cancellation
+0 Processing
+0 Cancelled in Lab
+TEST DETAILS
+REPORT STATUS
+EXECUTIVE HEALTH CHECKUP - ABOVE 40 YRS FEMALE WITH 
+Ready
+   FASTING BLOOD SUGAR(GLUCOSE)
+Ready
+   HEMOGRAM
+Ready
+   COMPLETE URINE ANALYSIS
+Ready
+   HBA PROFILE
+Ready
+   KIDPRO
+Ready
+   LIPID PROFILE
+Ready
+   FT3-FT4-USTSH
+Ready
+   VITAMIN D PROFILE
+Ready
+   SERUM ALBUMIN-GLOBULIN RATIO
+Ready
+   SERUM SGOT-SGPT RATIO
+Ready
+   INDIRECT BILIRUBIN
+Ready
+   ALKALINE PHOSPHATASE
+Ready
+
+--- Page 3 ---
+PROCESSED AT :
+Thyrocare
+CP-67, Viraj Khand,
+Gomti Nagar, Lucknow – 226 010
+NAME
+ 
+REF. BY
+TEST ASKED
+:
+:
+:
+DEEPTI BHATT(43Y/F)
+SELF
+HOME COLLECTION :
+186-B SHAKTI NAGAR NEAR GOMTI SCHOOL 
+LUCKNOW GHAZIPUR LUCKNOW LUCKNOW UTTAR 
+PRADESH INDIA 226016-226016
+EXECUTIVE HEALTH CHECKUP - ABOVE 40 YRS FEMALE 
+WITH UTSH
+MOBILE NO
+DOB          
+:
+:
+9794913131
+01/31/1982
+PAN ID     :
+HL1-7475
+Summary Report
+Tests outside reference range
+TEST NAME
+OBSERVED VALUE
+UNITS
+Bio. Ref. Interval.
+COMPLETE HEMOGRAM
+g/dL
+29
+MEAN CORP.HEMO.CONC(MCHC)
+31.5-34.5
+X 10³ / µL
+0.16
+MONOCYTES - ABSOLUTE COUNT
+0.2 - 1.0
+X 10³ / µL
+147
+PLATELET COUNT
+150-410
+%
+16.6
+RED CELL DISTRIBUTION WIDTH (RDW-CV)
+11.6-14.0
+DIABETES
+mg/dL
+104.24
+FASTING BLOOD SUGAR(GLUCOSE)
+70-100
+LIPID
+mg/dL
+66
+HDL CHOLESTEROL - DIRECT
+40-60
+Ratio
+1.4
+LDL / HDL RATIO
+1.5-3.5
+Ratio
+2.8
+TC/ HDL CHOLESTEROL RATIO
+3 - 5
+LIVER
+U/L
+35.75
+ASPARTATE AMINOTRANSFERASE (SGOT )
+< 31
+RENAL
+Ratio
+25.44
+BUN / SR.CREATININE RATIO
+9:1-23:1
+Ratio
+54.44
+UREA / SR.CREATININE RATIO
+< 52
+Disclaimer: The above listed is the summary of the  parameters with values outside the BRI. For detailed report values, 
+parameter correlation and clinical interpretation, kindly refer to the same in subsequent pages.
+
+--- Page 4 ---
+Thyrocare,
+Plot No.428,Phase-IV,
+Udyog Vihar,
+Gurgaon,Haryana - 122 015
+PROCESSED AT :
+NAME
+ 
+SELF
+DEEPTI BHATT(43Y/F)
+REF. BY
+TEST ASKED
+EXECUTIVE HEALTH CHECKUP - ABOVE 40 YRS FEMALE 
+WITH UTSH
+:
+:
+:
+186-B SHAKTI NAGAR NEAR GOMTI SCHOOL LUCKNOW 
+GHAZIPUR LUCKNOW LUCKNOW UTTAR PRADESH INDIA 
+226016-226016
+HOME COLLECTION :
+MOBILE NO
+DOB          
+:
+:
+9794913131
+01/31/1982
+PAN ID     :
+HL1-7475
+TEST NAME
+TECHNOLOGY
+VALUE
+UNITS
+Bio. Ref. Interval.
+TOTAL CHOLESTEROL
+PHOTOMETRY
+< 200
+mg/dL
+ 182
+HDL CHOLESTEROL - DIRECT
+PHOTOMETRY
+40-60
+mg/dL
+ 66
+HDL / LDL RATIO
+CALCULATED
+> 0.40
+Ratio
+ 0.7
+LDL CHOLESTEROL - DIRECT
+PHOTOMETRY
+< 100
+mg/dL
+ 95
+TRIG / HDL RATIO
+CALCULATED
+< 3.12
+Ratio
+ 1.17
+TRIGLYCERIDES
+PHOTOMETRY
+< 150
+mg/dL
+ 77
+TC/ HDL CHOLESTEROL RATIO
+CALCULATED
+3 - 5
+Ratio
+ 2.8
+LDL / HDL RATIO
+CALCULATED
+1.5-3.5
+Ratio
+ 1.4
+VLDL CHOLESTEROL
+CALCULATED
+5 - 40
+mg/dL
+ 15.45
+NON-HDL CHOLESTEROL
+CALCULATED
+< 160
+mg/dL
+ 115.71
+Please correlate with clinical conditions.
+Method :
+CHOL - Cholesterol Oxidase, Esterase, Peroxidase
+HCHO - Direct Enzymatic Colorimetric
+HD/LD - Derived from HDL and LDL values.
+LDL - Direct Measure
+TRI/H - Derived from TRIG and HDL Values
+TRIG - Enzymatic, End Point
+TC/H - Derived from serum Cholesterol and Hdl values
+LDL/ - Derived from serum HDL and LDL Values
+VLDL - Derived from serum Triglyceride values
+NHDL - Derived from serum Cholesterol and HDL values
+Alert !!! 10-12 hours fasting is mandatory for lipid parameters. If not, values might fluctuate.
+TOTAL CHOLESTEROL   
+>190
+VERY HIGH                 
+>500
+VERY HIGH                 
+160-189
+HIGH                         
+200-499
+HIGH                        
+130-159
+BORDERLINE HIGH   
+>240
+HIGH                              
+150-199
+BORDERLINE HIGH    
+100-129
+NEAR OPTIMAL          
+>60
+HIGH         
+200-239
+BORDERLINE HIGH            
+<150
+NORMAL                   
+<100
+OPTIMAL                    
+<40
+LOW          
+<200
+DESIRABLE                      
+(mg/dl)
+TRIGLYCERIDES   
+(mg/dl)
+LDL                          
+(mg/dl)
+HDL           
+(mg/dl)
+*REFERENCE RANGES AS PER NCEP ATP III GUIDELINES:
+SERUM
+11 May 2025 07:38
+11 May 2025 04:02
+10 May 2025 06:35
+:
+:
+:
+:
+Sample Type
+Report  Released on (RRT)
+Sample Received on (SRT)
+Sample Collected on (SCT)
+DV832806
+:
+Barcode
+: 1005044646/HCL01
+Labcode
+Dr Saakshi Mittal MD(Path)
+Page : 1 of 11
+Scan QR code to verify authenticity of reported results; active for 30 days from release time.
+
+--- Page 5 ---
+Thyrocare,
+Plot No.428,Phase-IV,
+Udyog Vihar,
+Gurgaon,Haryana - 122 015
+PROCESSED AT :
+NAME
+ 
+SELF
+DEEPTI BHATT(43Y/F)
+REF. BY
+TEST ASKED
+EXECUTIVE HEALTH CHECKUP - ABOVE 40 YRS FEMALE 
+WITH UTSH
+:
+:
+:
+186-B SHAKTI NAGAR NEAR GOMTI SCHOOL LUCKNOW 
+GHAZIPUR LUCKNOW LUCKNOW UTTAR PRADESH INDIA 
+226016-226016
+HOME COLLECTION :
+MOBILE NO
+DOB          
+:
+:
+9794913131
+01/31/1982
+PAN ID     :
+HL1-7475
+TEST NAME
+TECHNOLOGY
+VALUE
+UNITS
+Bio. Ref. Interval.
+ALKALINE PHOSPHATASE
+PHOTOMETRY
+45-129
+U/L
+ 68.97
+BILIRUBIN - TOTAL
+PHOTOMETRY
+0.3-1.2
+mg/dL
+ 0.56
+BILIRUBIN -DIRECT
+PHOTOMETRY
+< 0.3
+mg/dL
+ 0.12
+BILIRUBIN (INDIRECT)
+CALCULATED
+0-0.9
+mg/dL
+ 0.44
+SGOT / SGPT RATIO
+CALCULATED
+< 2
+Ratio
+ 1.43
+ASPARTATE AMINOTRANSFERASE (SGOT )
+PHOTOMETRY
+< 31
+U/L
+ 35.75
+ALANINE TRANSAMINASE (SGPT)
+PHOTOMETRY
+< 34
+U/L
+ 25
+PROTEIN - TOTAL
+PHOTOMETRY
+5.7-8.2
+gm/dL
+ 7.57
+ALBUMIN - SERUM
+PHOTOMETRY
+3.2-4.8
+gm/dL
+ 4.38
+SERUM GLOBULIN
+CALCULATED
+2.5-3.4
+gm/dL
+ 3.19
+SERUM ALB/GLOBULIN RATIO
+CALCULATED
+0.9 - 2
+Ratio
+ 1.37
+Please correlate with clinical conditions.
+Method :
+ALKP - Modified IFCC method
+BILT - Vanadate Oxidation
+BILD - Vanadate Oxidation
+BILI - Derived from serum Total and Direct Bilirubin values
+OT/PT - Derived from SGOT and SGPT values.
+SGOT - IFCC* Without Pyridoxal Phosphate Activation
+SGPT - IFCC* Without Pyridoxal Phosphate Activation
+PROT -   Biuret Method
+SALB - Albumin Bcg¹method (Colorimetric Assay Endpoint)
+SEGB - DERIVED FROM SERUM ALBUMIN AND PROTEIN VALUES
+A/GR - Derived from serum Albumin and Protein values
+SERUM
+11 May 2025 07:38
+11 May 2025 04:02
+10 May 2025 06:35
+:
+:
+:
+:
+Sample Type
+Report  Released on (RRT)
+Sample Received on (SRT)
+Sample Collected on (SCT)
+DV832806
+:
+Barcode
+: 1005044646/HCL01
+Labcode
+Dr Saakshi Mittal MD(Path)
+Page : 2 of 11
+
+--- Page 6 ---
+Thyrocare,
+Plot No.428,Phase-IV,
+Udyog Vihar,
+Gurgaon,Haryana - 122 015
+PROCESSED AT :
+NAME
+ 
+REF. BY
+TEST ASKED
+186-B SHAKTI NAGAR NEAR GOMTI SCHOOL LUCKNOW 
+GHAZIPUR LUCKNOW LUCKNOW UTTAR PRADESH INDIA 
+226016-226016
+:
+:
+:
+EXECUTIVE HEALTH CHECKUP - ABOVE 40 YRS FEMALE 
+WITH UTSH
+SELF
+DEEPTI BHATT(43Y/F)
+HOME COLLECTION :
+MOBILE NO
+DOB          
+:
+:
+9794913131
+01/31/1982
+PAN ID     :
+HL1-7475
+TEST NAME
+TECHNOLOGY 
+VALUE
+UNITS
+Bio. Ref. Interval.
+TSH - ULTRASENSITIVE
+C.M.I.A
+µIU/mL
+0.35-4.94
+3.539
+FREE TRIIODOTHYRONINE (FT3)
+C.M.I.A
+pg/mL
+1.71-3.71
+2.77
+FREE THYROXINE (FT4)
+C.M.I.A
+ng/dL
+0.7-1.48
+0.99
+Method :
+The Biological Reference Ranges is specific to the age group. Kindly correlate clinically.
+FT3,FT4,USTSH - Fully Automated Chemi Luminescent Microparticle Immunoassay
+Pregnancy reference ranges for TSH/USTSH :
+Trimester || T3 (ng/dl) || T4 (µg/dl) || TSH/USTSH (µIU/ml)
+   1st          || 83.9-196.6 ||  4.4-11.5  ||  0.1-2.5
+   2nd
+  || 86.1-217.4 ||  4.9-12.2  ||  0.2-3.0
+   3rd
+  || 79.9-186   ||  5.1-13.2  ||  0.3-3.5
+References :
+1. Carol Devilia, C I Parhon. First Trimester Pregnancy ranges for Serum TSH and Thyroid Tumor reclassified as 
+Benign. Acta Endocrinol. 2016; 12(2) : 242 - 243
+2. Kulhari K, Negi R, Kalra DK et al. Establishing Trimester specific Reference ranges for thyroid hormones in Indian 
+women with normal pregnancy : New light through old window. Indian Journal of Contemporary medical research. 
+2019; 6(4)
+Sample Type
+Report  Released on (RRT)
+Sample Received on (SRT)
+Barcode
+Labcode
+:
+:
+:
+:
+:
+:
+11 May 2025 04:02
+11 May 2025 07:38
+SERUM
+1005044646/HCL01
+DV832806
+Dr Saakshi Mittal MD(Path)
+Page : 3 of 11
+10 May 2025 06:35
+Sample Collected on (SCT)
+
+--- Page 7 ---
+Thyrocare,
+Plot No.428,Phase-IV,
+Udyog Vihar,
+Gurgaon,Haryana - 122 015
+PROCESSED AT :
+NAME
+ 
+SELF
+DEEPTI BHATT(43Y/F)
+REF. BY
+TEST ASKED
+EXECUTIVE HEALTH CHECKUP - ABOVE 40 YRS FEMALE 
+WITH UTSH
+:
+:
+:
+186-B SHAKTI NAGAR NEAR GOMTI SCHOOL LUCKNOW 
+GHAZIPUR LUCKNOW LUCKNOW UTTAR PRADESH INDIA 
+226016-226016
+HOME COLLECTION :
+MOBILE NO
+DOB          
+:
+:
+9794913131
+01/31/1982
+PAN ID     :
+HL1-7475
+TEST NAME
+TECHNOLOGY
+VALUE
+UNITS
+Bio. Ref. Interval.
+BLOOD UREA NITROGEN (BUN)
+PHOTOMETRY
+7.94 - 20.07
+mg/dL
+ 16.79
+UREA (CALCULATED)
+CALCULATED
+Adult : 17-43
+mg/dL
+ 35.93
+CREATININE - SERUM
+PHOTOMETRY
+0.55-1.02
+mg/dL
+ 0.66
+UREA / SR.CREATININE RATIO
+CALCULATED
+< 52
+Ratio
+ 54.44
+BUN / SR.CREATININE RATIO
+CALCULATED
+9:1-23:1
+Ratio
+ 25.44
+CALCIUM
+PHOTOMETRY
+8.8-10.6
+mg/dL
+ 9.6
+URIC ACID
+PHOTOMETRY
+3.2 - 6.1
+mg/dL
+ 4.81
+Please correlate with clinical conditions.
+Method :
+BUN - Kinetic UV Assay.
+UREAC - Derived from BUN Value.
+SCRE - Creatinine Enzymatic Method
+UR/CR - Derived from UREA and Sr.Creatinine values.
+B/CR - Derived from serum Bun and Creatinine values
+CALC - Arsenazo III Method, End Point.
+URIC - Uricase / Peroxidase Method
+SERUM
+11 May 2025 07:38
+11 May 2025 04:02
+10 May 2025 06:35
+:
+:
+:
+:
+Sample Type
+Report  Released on (RRT)
+Sample Received on (SRT)
+Sample Collected on (SCT)
+DV832806
+:
+Barcode
+: 1005044646/HCL01
+Labcode
+Dr Saakshi Mittal MD(Path)
+Page : 4 of 11
+
+--- Page 8 ---
+Thyrocare,
+Plot No.428,Phase-IV,
+Udyog Vihar,
+Gurgaon,Haryana - 122 015
+PROCESSED AT :
+NAME
+ 
+SELF
+DEEPTI BHATT(43Y/F)
+REF. BY
+TEST ASKED
+EXECUTIVE HEALTH CHECKUP - ABOVE 40 YRS 
+FEMALE WITH UTSH
+:
+:
+:
+186-B SHAKTI NAGAR NEAR GOMTI SCHOOL 
+LUCKNOW GHAZIPUR LUCKNOW LUCKNOW UTTAR 
+PRADESH INDIA 226016-226016
+HOME COLLECTION :
+HL1-7475
+PAN ID   :
+01/31/1982
+DOB   :
+9794913131
+MOBILE NO   :
+TEST NAME
+UNITS
+VALUE
+TECHNOLOGY 
+mL/min/1.73 m2
+112
+Bio. Ref. Interval. :-
+EST. GLOMERULAR FILTRATION RATE (eGFR)
+CALCULATED
+>  =  90
+: Normal
+60 - 89
+: Mild Decrease
+45 - 59 
+: Mild to Moderate Decrease
+30 - 44
+: Moderate to Severe Decrease
+15 - 29
+: Severe Decrease
+Clinical Significance
+The normal serum creatinine reference interval does not necessarily reflect a normal GFR for a patient. Because mild and 
+moderate kidney injury is poorly inferred from serum creatinine alone. Thus, it is recommended for clinical laboratories to routinely 
+estimate glomerular filtration rate (eGFR), a “gold standard” measurement for assessment of renal function, and report the value 
+when serum creatinine is measured for patients 18 and older, when appropriate and feasible. It cannot be measured easily in 
+clinical practice, instead, GFR is estimated from equations using serum creatinine, age, race and sex. This provides easy to 
+interpret information for the doctor and patient on the degree of renal impairment since it approximately equates to the 
+percentage of kidney function remaining. Application of CKD-EPI equation together with the other diagnostic tools in renal 
+medicine will further improve the detection and management of patients with CKD.
+Reference 
+Levey AS, Stevens LA, Schmid CH, Zhang YL, Castro AF, 3rd, Feldman HI, et al. A new equation to estimate glomerular filtration 
+rate. Ann Intern Med. 2009;150(9):604-12.
+Please correlate with clinical conditions.
+Method:-
+2021 CKD EPI Creatinine Equation
+SERUM
+11 May 2025 07:38
+11 May 2025 04:02
+:
+:
+:
+:
+Sample Type
+Report  Released on (RRT)
+Sample Received on (SRT)
+DV832806
+:
+Barcode
+: 1005044646/HCL01
+Labcode
+Page : 5 of 11
+Dr Saakshi Mittal MD(Path)
+Sample Collected on (SCT)
+10 May 2025 06:35
+
+--- Page 9 ---
+Thyrocare,
+Plot No.428,Phase-IV,
+Udyog Vihar,
+Gurgaon,Haryana - 122 015
+PROCESSED AT :
+NAME
+ 
+SELF
+DEEPTI BHATT(43Y/F)
+REF. BY
+TEST ASKED
+EXECUTIVE HEALTH CHECKUP - ABOVE 40 YRS FEMALE 
+WITH UTSH
+:
+:
+:
+186-B SHAKTI NAGAR NEAR GOMTI SCHOOL 
+LUCKNOW GHAZIPUR LUCKNOW LUCKNOW 
+UTTAR PRADESH INDIA 226016-226016
+HOME COLLECTION :
+MOBILE NO
+DOB  
+:
+:
+01/31/1982
+9794913131
+PAN ID :
+HL1-7475
+TEST NAME
+TECHNOLOGY
+VALUE
+UNITS
+LC-MS/MS
+ng/mL
+0.41
+VITAMIN D2
+Method :
+LIQUID CHROMATOGRAPHY TANDEM MASS SPECTROMETRY
+LC-MS/MS
+ng/mL
+38.89
+VITAMIN D3
+Method :
+LIQUID CHROMATOGRAPHY TANDEM MASS SPECTROMETRY
+LC-MS/MS
+ng/mL
+39.3
+VITAMIN D TOTAL
+Deficiency    : <20 ng/mL
+Insufficiency : 20-30 ng/mL
+Sufficiency   : 30-100 ng/mL
+Toxicity      : >100 ng/mL
+Bio. Ref. Interval. :
+Method :
+Liquid Chromatography Tandem Mass Spectrometry
+Please correlate with clinical conditions. 
+SERUM
+11 May 2025 07:38
+11 May 2025 04:02
+10 May 2025 06:35
+:
+:
+:
+:
+Sample Type
+Report  Released on (RRT)
+Sample Received on (SRT)
+DV832806
+:
+Barcode
+: 1005044646/HCL01
+Labcode
+Page : 6 of 11
+Dr Saakshi Mittal MD(Path)
+Sample Collected on (SCT)
+
+--- Page 10 ---
+Thyrocare
+CP-67, Viraj Khand,
+Gomti Nagar, Lucknow – 226 010
+PROCESSED AT :
+NAME
+ 
+SELF
+DEEPTI BHATT(43Y/F)
+REF. BY
+TEST ASKED
+EXECUTIVE HEALTH CHECKUP - ABOVE 40 YRS 
+FEMALE WITH UTSH
+:
+:
+:
+186-B SHAKTI NAGAR NEAR GOMTI SCHOOL 
+LUCKNOW GHAZIPUR LUCKNOW LUCKNOW UTTAR 
+PRADESH INDIA 226016-226016
+HOME COLLECTION :
+HL1-7475
+PAN ID   :
+01/31/1982
+DOB   :
+9794913131
+MOBILE NO   :
+TEST NAME
+UNITS
+VALUE
+TECHNOLOGY 
+mg/dL
+104.24
+FASTING BLOOD SUGAR(GLUCOSE)
+PHOTOMETRY
+Bio. Ref. Interval. :-
+Normal  
+Prediabetes
+Diabetes
+As per ADA Guideline: Fasting Plasma Glucose (FPG)
+70 to 100 mg/dl
+100 mg/dl to 125 mg/dl
+126 mg/dl or higher
+Note : 
+The assay could be affected mildly and may result in anomalous values if serum samples have heterophilic antibodies, hemolyzed , 
+icteric or lipemic. The concentration of Glucose in a given specimen may vary due to differences in assay methods, calibration and 
+reagent specificity. For diagnostic purposes results should always be assessed in conjunction with patients medical history, clinical 
+findings and other findings.
+Please correlate with clinical conditions.
+Method:-
+GOD-PAP METHOD
+FLUORIDE PLASMA
+10 May 2025 13:30
+10 May 2025 11:59
+:
+:
+:
+:
+Sample Type
+Report  Released on (RRT)
+Sample Received on (SRT)
+DT665605
+:
+Barcode
+: 1005069047/HCL01
+Labcode
+Page : 7 of 11
+Dr.Shaffaly Gagneja MD (Path) Dr.Ch.Pawan.S MD(Path)
+Sample Collected on (SCT)
+10 May 2025 06:35
+
+--- Page 11 ---
+PROCESSED AT :
+Thyrocare
+CP-67, Viraj Khand,
+Gomti Nagar, Lucknow – 226 010
+NAME
+ 
+SELF
+DEEPTI BHATT(43Y/F)
+REF. BY
+TEST ASKED
+EXECUTIVE HEALTH CHECKUP - ABOVE 40 YRS 
+FEMALE WITH UTSH
+:
+:
+:
+186-B SHAKTI NAGAR NEAR GOMTI SCHOOL 
+LUCKNOW GHAZIPUR LUCKNOW LUCKNOW 
+UTTAR PRADESH INDIA 226016-226016
+HOME COLLECTION :
+MOBILE NO
+:
+DOB         
+:
+PAN ID     :
+HL1-7475
+9794913131
+01/31/1982
+TEST NAME
+Bio. Ref. Interval.
+Complete Urinogram
+UNITS
+VALUE
+METHODOLOGY
+Physical Examination
+VOLUME
+3
+-
+mL
+Visual Determination
+COLOUR
+PALE YELLOW
+Pale Yellow
+-
+Visual Determination
+APPEARANCE
+CLEAR
+Clear
+-
+Visual Determination
+SPECIFIC GRAVITY
+< 1.003
+1.003-1.030
+-
+pKa change
+PH
+5
+5-8
+-
+pH indicator
+Chemical Examination
+URINARY PROTEIN
+ABSENT
+Absent
+mg/dL
+PEI
+URINARY GLUCOSE
+ABSENT
+Absent
+mg/dL
+GOD-POD
+URINE KETONE
+ABSENT
+Absent
+mg/dL
+Nitroprusside
+URINARY BILIRUBIN
+ABSENT
+Absent
+mg/dL
+Diazo coupling
+UROBILINOGEN
+Normal
+<=0.2
+mg/dL
+Diazo coupling
+BILE SALT
+ABSENT
+Absent
+-
+Hays sulphur
+BILE PIGMENT
+ABSENT
+Absent
+-
+Ehrlich reaction
+URINE BLOOD
+ABSENT
+Absent
+-
+Peroxidase reaction
+NITRITE
+ABSENT
+Absent
+-
+Diazo coupling
+LEUCOCYTE ESTERASE
+ABSENT
+Absent
+-
+Esterase reaction
+Microscopic Examination
+MUCUS
+ABSENT
+Absent
+-
+Microscopy
+RED BLOOD CELLS
+ABSENT
+0-5
+cells/HPF
+Microscopy
+URINARY LEUCOCYTES (PUS CELLS)
+ABSENT
+0-5
+cells/HPF
+Microscopy
+EPITHELIAL CELLS
+4
+0-5
+cells/HPF
+Microscopy
+CASTS
+ABSENT
+Absent
+-
+Microscopy
+CRYSTALS
+ABSENT
+Absent
+-
+Microscopy
+BACTERIA
+ABSENT
+Absent
+-
+Microscopy
+YEAST
+ABSENT
+Absent
+-
+Microscopy
+PARASITE
+ABSENT
+Absent
+-
+Microscopy
+(Reference : *PEI - Protein error of indicator, *GOD-POD - Glucose oxidase-peroxidase)
+URINE
+10 May 2025 14:27
+10 May 2025 12:36
+10 May 2025 06:35
+:
+:
+:
+:
+Sample Collected on (SCT)
+Sample Received on (SRT)
+Report  Released on (RRT)
+Sample Type
+DR561823
+:
+Barcode
+: 1005072363/HCL01
+Labcode
+Page : 8 of 11
+Dr.Shaffaly Gagneja MD (Path)
+Dr.Ch.Pawan.S MD(Path)
+
+--- Page 12 ---
+Thyrocare
+CP-67, Viraj Khand,
+Gomti Nagar, Lucknow – 226 010
+PROCESSED AT :
+NAME
+ 
+SELF
+DEEPTI BHATT(43Y/F)
+REF. BY
+TEST ASKED
+EXECUTIVE HEALTH CHECKUP - ABOVE 40 YRS FEMALE 
+WITH UTSH
+:
+:
+:
+186-B SHAKTI NAGAR NEAR GOMTI SCHOOL 
+LUCKNOW GHAZIPUR LUCKNOW LUCKNOW 
+UTTAR PRADESH INDIA 226016-226016
+HOME COLLECTION :
+MOBILE NO
+DOB  
+:
+:
+01/31/1982
+9794913131
+PAN ID :
+HL1-7475
+TEST NAME
+TECHNOLOGY
+VALUE
+UNITS
+HbA1c - (HPLC)
+H.P.L.C
+%
+5.4
+Below 5.7%   : Normal
+5.7% - 6.4% : Prediabetic
+>=6.5%        : Diabetic   
+Bio. Ref. Interval.: As per ADA Guidelines
+Below 6.5% : Good Control
+6.5% - 7%  : Fair Control
+7.0% - 8%  : Unsatisfactory Control
+>8%          : Poor Control
+Guidance For Known Diabetics
+Bio. Ref. Interval. :
+Method :
+Fully Automated H.P.L.C method
+CALCULATED
+mg/dL
+108
+AVERAGE BLOOD GLUCOSE (ABG)
+90 - 120 mg/dl   : Good Control
+121 - 150 mg/dl : Fair Control
+151 - 180 mg/dl : Unsatisfactory Control
+> 180 mg/dl      : Poor Control
+Bio. Ref. Interval. :
+Method :
+Derived from HBA1c  values
+Please correlate with clinical conditions. 
+EDTA Whole Blood
+10 May 2025 13:49
+10 May 2025 12:05
+10 May 2025 06:35
+:
+:
+:
+:
+Sample Type
+Report  Released on (RRT)
+Sample Received on (SRT)
+DV691410
+:
+Barcode
+: 1005069317/HCL01
+Labcode
+Page : 9 of 11
+Dr.Shaffaly Gagneja MD (Path)
+Dr.Ch.Pawan.S MD(Path)
+Sample Collected on (SCT)
+
+--- Page 13 ---
+Thyrocare
+CP-67, Viraj Khand,
+Gomti Nagar, Lucknow – 226 010
+PROCESSED AT :
+NAME
+ 
+SELF
+DEEPTI BHATT(43Y/F)
+REF. BY
+TEST ASKED
+EXECUTIVE HEALTH CHECKUP - ABOVE 40 YRS FEMALE 
+WITH UTSH
+:
+:
+:
+186-B SHAKTI NAGAR NEAR GOMTI SCHOOL 
+LUCKNOW GHAZIPUR LUCKNOW LUCKNOW UTTAR 
+PRADESH INDIA 226016-226016
+HOME COLLECTION :
+MOBILE NO   :
+9794913131
+HL1-7475
+DOB   :
+01/31/1982
+PAN ID   :
+TEST NAME
+VALUE
+UNITS
+Bio. Ref. Interval.
+METHODOLOGY
+g/dL
+ 12.7
+12.0-15.0
+HEMOGLOBIN
+SLS-Hemoglobin Method
+%
+ 43.8
+36.0-46.0
+Hematocrit (PCV)
+CPH Detection
+X 10^6/µL
+ 4.69
+3.8-4.8
+Total RBC
+HF & EI
+fL
+ 93.4
+83.0-101.0
+Mean Corpuscular Volume (MCV)
+Calculated
+pq
+ 27.1
+27.0-32.0
+Mean Corpuscular Hemoglobin (MCH)
+Calculated
+g/dL
+ 29
+31.5-34.5
+Mean Corp.Hemo. Conc (MCHC)
+Calculated
+%
+ 16.6
+11.6-14.0
+Red Cell Distribution Width (RDW - CV)
+Calculated
+X 10³ / µL
+ 5.32
+4.0 - 10.0
+TOTAL LEUCOCYTE COUNT (WBC)
+HF & FC
+DIFFERENTIAL LEUCOCYTE COUNT
+%
+ 58.4
+40-80
+Neutrophils Percentage
+Flow Cytometry
+%
+ 33.3
+20-40
+Lymphocytes Percentage
+Flow Cytometry
+%
+ 3
+2-10
+Monocytes Percentage
+Flow Cytometry
+%
+ 4.3
+1-6
+Eosinophils Percentage
+Flow Cytometry
+%
+ 0.8
+0-2
+Basophils Percentage
+Flow Cytometry
+%
+ 0.2
+0.0-0.4
+Immature Granulocyte Percentage (IG%)
+Flow Cytometry
+%
+ 0.1
+0.0-5.0
+Nucleated Red Blood Cells %
+Flow Cytometry
+ABSOLUTE LEUCOCYTE COUNT
+X 10³ / µL
+ 3.11
+2.0-7.0
+Neutrophils - Absolute Count
+Calculated
+X 10³ / µL
+ 1.77
+1.0-3.0
+Lymphocytes - Absolute Count
+Calculated
+X 10³ / µL
+ 0.16
+0.2 - 1.0
+Monocytes - Absolute Count
+Calculated
+X 10³ / µL
+ 0.04
+0.02 - 0.1
+Basophils - Absolute Count
+Calculated
+X 10³ / µL
+ 0.23
+0.02 - 0.5
+Eosinophils - Absolute Count
+Calculated
+X 10³ / µL
+ 0.01
+0.0-0.3
+Immature Granulocytes (IG)
+Calculated
+X 10³ / µL
+ 0.005
+0.0-0.5
+Nucleated Red Blood Cells
+Calculated
+X 10³ / µL
+ 147
+150-410
+PLATELET COUNT
+HF & EI
+Method : Fully automated bidirectional analyser (6 Part Differential SYSMEX XN-1000)
+(Reference : *FC- flowcytometry, *HF- hydrodynamic focussing, *EI- Electric Impedence, *Hb- hemoglobin, *CPH- Cumulative pulse height)
+Clinical history is asked for all the relevant abnormalities detected and in absence / failure of receiving of clinical history, 
+results are rechecked twice and released. Advised clinical correlation.
+~~ End of report ~~
+EDTA Whole Blood
+10 May 2025 13:49
+10 May 2025 12:05
+10 May 2025 06:35
+:
+:
+:
+:
+Sample Type
+Report  Released on (RRT)
+Sample Received on (SRT)
+Sample Collected on (SCT)
+DV691410
+:
+Barcode
+: 1005069317/HCL01
+Labcode
+Page : 10 of 11
+Dr.Ch.Pawan.S MD(Path)
+Dr.Shaffaly Gagneja MD (Path)
+Scan QR code to verify authenticity of reported results; active for 30 days from release time.
+
+--- Page 14 ---
+CONDITIONS OF REPORTING
+ v The reported results are for information and interpretation of the referring doctor only.
+ v  It is presumed that the tests performed on the specimen belong to the patient; named or identified.
+ v  Results of tests may vary from laboratory to laboratory and also in some parameters from time to time for the 
+same patient.
+ v  Should the results indicate an unexpected abnormality, the same should be reconfirmed.
+ v  Only such medical professionals who understand reporting units, reference ranges and limitations of 
+technologies should interpret results.
+ v  This report is not valid for medico-legal purpose.
+ v  Neither Thyrocare, nor its employees/representatives assume: (a) any liability, responsibility for any loss or 
+damage that may be incurred by any person as a result of presuming the meaning or contents of the report, (b) 
+any claims of any nature whatsoever arising from or relating to the performance of the requested tests as well 
+as any claim for indirect, incidental or consequential damages. The total liability, in any case, of Thyrocare shall 
+not exceed the total amount of invoice for the services provided and paid for. 
+ v  Majority of the specimen processed in the laboratory are collected by Pathologists and Hospitals we call them 
+ as "Clients".
+ v  Name - The name is as declared by the client and recored by the personnel who collected the specimen.
+ v  Ref.Dr - The name of the doctor who has recommended testing as declared by the client.
+ v  Labcode - This is the accession number in our laboratory and it helps us in archiving and retrieving the data.
+ v  Barcode - This is the specimen identity number and it states that the results are for the specimen bearing 
+ the barcode (irrespective  of the name).
+ v  SCP - Specimen Collection Point - This is the location where the blood or specimen was collected as declared by 
+ the client.
+ v  SCT - Specimen Collection Time - The time when specimen was collected as declared by the client.
+ v  SRT - Specimen Receiving Time - This time when the specimen reached our laboratory.
+ v  RRT - Report Releasing Time - The time when our pathologist has released the values for Reporting.
+ v  Reference Range - Means the range of values in which 95% of the normal population would fall.
+EXPLANATIONS
+Page : 11 of 11
+T&C Apply, #As on 5th December 2024, *As per a survey on doctors' perception of laboratory diagnostics (IJARIIT,2023)
++
